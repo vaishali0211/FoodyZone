@@ -1,0 +1,1 @@
+Foody zone  through we can dyanamic search food and there are  four types of food options like All we have showing all items and after that we have breakfast that we have only showing breakfast food then we have lunch in lunch we are showing lunch food and last is dinner here we only showing dinner food.
